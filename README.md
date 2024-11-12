@@ -4,6 +4,7 @@ Este proyecto es una aplicación para el control de gastos personales desarrolla
 Permite registrar, visualizar y gestionar los gastos de manera sencilla. La aplicación te ayudará a tener un mejor control sobre tus finanzas personales, ocio, salud, gastos, etc.
 
 
+
 ![Demostración planificador](src/assets/gif/planificador.gif)
 
 
